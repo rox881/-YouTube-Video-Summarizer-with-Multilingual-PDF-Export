@@ -1,0 +1,13 @@
+streamlit
+yt-dlp
+openai-whisper
+transformers
+sentencepiece
+accelerate
+torch
+google-generativeai
+youtube-transcript-api
+Pillow
+requests
+fpdf2
+python-bidi
