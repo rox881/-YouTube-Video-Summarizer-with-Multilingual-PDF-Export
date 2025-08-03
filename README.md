@@ -1,0 +1,2 @@
+# -YouTube-Video-Summarizer-with-Multilingual-PDF-Export
+This is a Python application built with Streamlit that allows users to generate concise summaries of YouTube videos. The tool can either use existing transcripts or perform AI-based audio transcription. The final summary is refined by Google's Gemini model and can be exported as a neatly formatted PDF, with support for English, Hindi, and Marathi.
